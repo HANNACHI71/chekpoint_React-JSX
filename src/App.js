@@ -11,6 +11,7 @@ const App = () => {
   return (
     
     <div>
+      <p>“Hello, there!” </p>
       <Card style={{ width: "18rem" }}>
         <Card.Body>
           <Name name={product.name} />
